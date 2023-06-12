@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/furkannozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="furkannozay" height="30" width="40" /></a>
-<a href="https://dev.to/furkannozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="furkannozay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/furkannozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkannozay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22063197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22063197" height="30" width="40" /></a>
-<a href="https://instagram.com/furkanczay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanczay" height="30" width="40" /></a>
-<a href="https://medium.com/@furkannozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkannozay" height="30" width="40" /></a>
+<a href="https://codepen.io/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="furkannozay" height="30" width="40" /></a>
+<a href="https://dev.to/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="furkannozay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkannozay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22063197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22063197" height="30" width="40" /></a>
+<a href="https://instagram.com/furkanczay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanczay" height="30" width="40" /></a>
+<a href="https://medium.com/@furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkannozay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
