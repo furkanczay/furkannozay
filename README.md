@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan Özay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **AcademyProject-Videos**
+- 🔭 I’m currently working on [**AcunMedyaAcademy**](https://github.com/furkannozay/acunmedyaacademy) Project
 
 - 🌱 I’m currently learning **RESTFramework, APIs, Django and MVT**
 
-- 👨‍💻 All of my projects are available at [None](None)
+- 👨‍💻 All of my projects are available at my [personal website](https://furkanozay.net)
 
 - 💬 Ask me about **Django, Backend Development**
 
