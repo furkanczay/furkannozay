@@ -1,24 +1,19 @@
 <h1 align="center">Hi 👋, I'm Furkan Özay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [**AcunMedyaAcademy**](https://github.com/furkannozay/acunmedyaacademy) Project
+- I’m currently working on Instructor in [Acunmedya Akademi](https://acunmedyaakademi.com)
 
-- 🌱 I’m currently learning **RESTFramework, APIs, Django and MVT**
+- I am currently developing myself in **Django, Django REST, FastAPI and React**
 
-- 👨‍💻 All of my projects are available at my [personal website](https://furkanozay.net)
+- My personal website: [click](https://furkanozay.net)
 
-- 💬 Ask me about **Django, Backend Development**
 
 - 📫 How to reach me **contact@furkanozay.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="furkannozay" height="30" width="40" /></a>
-<a href="https://dev.to/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="furkannozay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkannozay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22063197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22063197" height="30" width="40" /></a>
 <a href="https://instagram.com/furkanczay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanczay" height="30" width="40" /></a>
-<a href="https://medium.com/@furkannozay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkannozay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
